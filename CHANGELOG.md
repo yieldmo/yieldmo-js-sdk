@@ -1,3 +1,6 @@
+### v7.24 (July 7, 2016)
+- Bug fixes.
+
 ### v7.23 (Jun 23, 2016)
 - Freewheel ad server support.
 
