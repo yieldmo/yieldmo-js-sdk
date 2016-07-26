@@ -1,10 +1,15 @@
-### v7.24 (July 7, 2016)
+### v7.25 (July 26th, 2016)
+- Added sync/match partner.
+- Frontend impression tracker (event tracker call).
 - Bug fixes.
 
-### v7.23 (Jun 23, 2016)
+### v7.24 (July 7th, 2016)
+- Bug fixes.
+
+### v7.23 (Jun 23rd, 2016)
 - Freewheel ad server support.
 
-### v7.22 (Jun 9, 2016)
+### v7.22 (Jun 9th, 2016)
 - Bug fixes
 
 ### v7.2 (May 16th, 2016)
