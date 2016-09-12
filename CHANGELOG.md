@@ -1,3 +1,14 @@
+### v8.0 (September 12th, 2016)
+- Major release, support for added environments.
+- Fixes for video format (anchor tag handler).
+
+### v7.27 (August 30th, 2016)
+- Bug fix (hotfix for USMagazine.com)
+
+### v7.26 (August 8th, 2016)
+- AdChoices icon update.
+- Bug fixes and improvements.
+
 ### v7.25 (July 26th, 2016)
 - Added sync/match partner.
 - Frontend impression tracker (event tracker call).
