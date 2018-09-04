@@ -4,4 +4,4 @@ Yieldmo delivers impactful ad formats and a private marketplace for publishers a
 
 ## Integrate
 
-Integration instructions are available on the [wiki](https://github.com/yieldmo/yieldmo-js-sdk/wiki/Getting-Started).
+Integration instructions are available on the [wiki](https://github.com/yieldmo/yieldmo-js-sdk/wiki).
